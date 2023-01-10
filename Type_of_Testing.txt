@@ -1,0 +1,7 @@
+Unit testing is to test the lines of codes.
+Unit testing is conducted by computer program modules.
+Blackbox testing.
+
+Integration testing is to test the data of the programs.
+Integration testing is conducted by test plans.
+Whitebox testing.
